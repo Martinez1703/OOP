@@ -1,0 +1,40 @@
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Control.AdressControl.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Tabs.CartsTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Tabs.CustomersTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Tabs.DiscountTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Tabs.ItemsTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Tabs.OrderTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.View.Tabs.PriorityOrderTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\OneDrive\Рабочий стол\OOP\ObjectOrientedPractics-main\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Control.AdressControl.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Tabs.CartsTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Tabs.CustomersTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Tabs.DiscountTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Tabs.ItemsTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Tabs.OrderTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.View.Tabs.PriorityOrderTab.resources
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USER\OneDrive\Рабочий стол\OOP\лаб 5-6\obj\Debug\WindowsFormsApp1.pdb
